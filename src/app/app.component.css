@@ -1,0 +1,22 @@
+h1{
+    background: linear-gradient(rgb(115, 107, 219),rgb(135, 223, 238));
+    padding: 100px;
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+    /* box-shadow: 20px 0px 10px rgb(0,0,0,0.1); */
+}
+
+h1.title{
+    font-weight: bold;
+    color: black;
+}
+.app{
+   
+    background: linear-gradient(-120deg, #4a78db, hsl(198, 25%, 90%));
+    width: 100%;
+    min-height:100vh;
+    background-size: cover; 
+  
+   
+    
+}
